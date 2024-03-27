@@ -1,0 +1,22 @@
+Öncelikle raporu PDF e çevirdiğimde kalite çok düştüğünden iki versiyonu da ekledim.
+
+Raporda 2. soruyu tamamlayıp 3. soruya geçerken araştırmam esnasında yeni edindiğim bilgiler ile bir 
+aydınlanma yaşadım :D 
+Bunun heyecanıyla beraber o kısımlar biraz karmaşık durabilir ancak dikkatli okunduğunda anlaşılır
+olduğu düşünüyorum.
+
+Ayrıca dosyayı bilerek sadece ipynb olarak ekledim py halini koymadım çünkü sizinde Jupyter Lab veya
+Notebook üzerinde incelemenizi istedim.
+
+Bu şekilde daha anlaşılır gözüküyor ve tek dosyada iki sorunun da kodu bulunmakta.
+
+İlk bunu okuduysanız teşekkür ederim. Bu raporda 2. soruya çok takıldım kafa olarak
+çözüm arayışına girdim ve 4-5 gün sadece buna odaklandım hatta bazı vizelere çalışmak 
+yerine de bu soru ile uğraştım :) ama eğlenceliydi 
+
+Kolay gelsin sevgiler, saygılar ....
+
+
+
+Son olarak bu 61_N.jp2 görselin normalize edilmiş hali onu da kod olarak paylaşmadım.
+Bu kadar kompleks şey varken bu şekilde aradan çıkartmak daha mantıklı geldi. 
